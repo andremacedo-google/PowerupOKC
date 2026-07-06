@@ -1,6 +1,6 @@
 ---
 id: AP-002
-name: "ERP - Gestão de Tesouraria e Riscos Financeiros"
+name: "TRM - Gestão de Tesouraria e Riscos Financeiros"
 type: "Application"
 subtype: "Business Application"
 lifecycle:
@@ -17,7 +17,7 @@ tags:
   - "LeanIX-v4"
 ---
 
-# ERP - Gestão de Tesouraria e Riscos Financeiros (ID: AP-002)
+# TRM - Gestão de Tesouraria e Riscos Financeiros (ID: AP-002)
 
 Esta aplicação gerencia as posições de liquidez, fluxo de caixa projetado, operações de financiamento, captação de dívidas e operações de derivativos para proteção cambial e de preços de energia (hedge).
 
